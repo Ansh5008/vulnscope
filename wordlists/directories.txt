@@ -1,0 +1,14 @@
+admin
+login
+dashboard
+config
+server-status
+phpinfo.php
+test
+backup
+old
+uploads
+images
+js
+css
+api
